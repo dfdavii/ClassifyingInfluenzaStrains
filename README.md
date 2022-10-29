@@ -1,0 +1,3 @@
+# ClassifyingInfluenzaStrains
+
+Abstract—. The influenza virus is one of the most studied viral infections. This virus has a high rate of mutations, evolving into different strains. There are human and non-human strains, and the human strains are further divided. The different strains have been classified using HMM models. In the project,  different models were trained and tested using a text processing system to classify the different strains or serotypes of the virus. The system selects the most frequent words in the protein sequences of each serotype to classify them.  The random forest classify predicts the classification at 97% accuracy. The Naïve Bayes model classify the HA protein of the virus against the NA protein at 100% accuracy.
